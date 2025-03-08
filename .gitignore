@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+
+# Environment variable files
+.env
+
+# Unit test / coverage reports
+.coverage
+.tox/
+htmlcov/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker-related (if you generate build artifacts)
+docker-compose.override.yml
