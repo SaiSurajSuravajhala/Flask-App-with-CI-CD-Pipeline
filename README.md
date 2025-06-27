@@ -23,4 +23,4 @@ This project demonstrates how to implement automated CI/CD (Continuous Integrati
 ## Setup Instructions
 1. Clone this repository
 2. Add DockerHub credentials as GitHub repository secrets
-3. Push changes to the main branch to trigger the CI/CD pipeline
+3. Push changes to the main branch to trigger the CI/CD pipeline.
